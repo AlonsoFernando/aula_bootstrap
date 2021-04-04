@@ -1,0 +1,26 @@
+
+.navbar {
+    background-color: brown;
+}
+.quem-somos {
+    background-color: coral;
+    padding-bottom: 10px;
+    font-style: italic;
+    color: darkblue;
+}
+#parceiros {
+    background-color: rgb(201, 219, 33);
+    padding-bottom: 30px;
+    font-style: italic;
+    color: darkblue;
+}
+#servicos {
+    background-color: peru;
+    padding-bottom: 30px;
+    font-style: italic;
+    color: darkblue;
+}
+.bg-footer {
+    background-color: darkblue;
+    color: white;
+}
